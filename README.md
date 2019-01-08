@@ -1,3 +1,5 @@
-# riotgames
+# santa-monica
 
-This is the repository for code for the riotgames project.
+This is the repository for code for the Riot Games API project.
+
+
